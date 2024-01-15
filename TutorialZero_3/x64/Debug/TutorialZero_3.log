@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\ClangProject\TutorialZero_3\TutorialZero_3\main.cpp(305,22): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+  TutorialZero_3.vcxproj -> D:\ClangProject\TutorialZero_3\x64\Debug\TutorialZero_3.exe
